@@ -1,0 +1,633 @@
+ 
+    <div class="photo" data-id="0" data-number="105" data-name="Asuka" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/0_105_abnormal_ssr_b3_atk_ar_Asuka_Shikinami_Langley.webp" alt="0_105_abnormal_ssr_b3_atk_ar_Asuka_Shikinami_Langley.webp">
+    </div>
+
+    <div class="photo" data-id="100" data-number="56" data-name="yan" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/100_56_tetra_ssr_b1_sp_rl_yan.webp" alt="100_56_tetra_ssr_b1_sp_rl_yan.webp">
+    </div>
+
+    <div class="photo" data-id="101" data-number="56" data-name="alice" data-type="b3" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/101_56_tetra_ssr_b3_atk_snr_alice.webp" alt="101_56_tetra_ssr_b3_atk_snr_alice.webp">
+    </div>
+
+    <div class="photo" data-id="102" data-number="597" data-name="helm" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/102_597_elysion_ssr_b3_atk_snr_helm.webp" alt="102_597_elysion_ssr_b3_atk_snr_helm.webp">
+    </div>
+
+    <div class="photo" data-id="103" data-number="630" data-name="emilia" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/103_630_abnormal_ssr_b3_atk_rl_emilia.webp" alt="103_630_abnormal_ssr_b3_atk_rl_emilia.webp">
+    </div>
+
+    <div class="photo" data-id="104" data-number="70" data-name="2b" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/104_70_abnormal_ssr_b3_atk_ar_2b.webp" alt="104_70_abnormal_ssr_b3_atk_ar_2b.webp">
+    </div>
+
+    <div class="photo" data-id="105" data-number="70" data-name="soldier" data-type="b3" data-position="sp" data-faction="elysion" data-rarity="r" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/105_70_elysion_r_b3_sp_ar_soldier_eg.webp" alt="105_70_elysion_r_b3_sp_ar_soldier_eg.webp">
+    </div>
+
+    <div class="photo" data-id="106" data-number="70" data-name="rapi" data-type="B3" data-position="atk" data-faction="elysion" data-rarity="sr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/106_70_elysion_sr_B3_atk_ar_rapi.webp" alt="106_70_elysion_sr_B3_atk_ar_rapi.webp">
+    </div>
+
+    <div class="photo" data-id="107" data-number="70" data-name="Helm" data-type="b2" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/107_70_elysion_ssr_b2_atk_ar_Helm_Aquamarine.webp" alt="107_70_elysion_ssr_b2_atk_ar_Helm_Aquamarine.webp">
+    </div>
+
+    <div class="photo" data-id="108" data-number="70" data-name="brid" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/108_70_elysion_ssr_b3_atk_ar_brid.webp" alt="108_70_elysion_ssr_b3_atk_ar_brid.webp">
+    </div>
+
+    <div class="photo" data-id="109" data-number="70" data-name="guillotine" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/109_70_elysion_ssr_b3_atk_ar_guillotine_winter_slayer.webp" alt="109_70_elysion_ssr_b3_atk_ar_guillotine_winter_slayer.webp">
+    </div>
+
+    <div class="photo" data-id="10" data-number="120" data-name="poli" data-type="b2" data-position="def" data-faction="elysion" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/10_120_elysion_ssr_b2_def_sg_poli.webp" alt="10_120_elysion_ssr_b2_def_sg_poli.webp">
+    </div>
+
+    <div class="photo" data-id="110" data-number="70" data-name="privaty" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/110_70_elysion_ssr_b3_atk_ar_privaty.webp" alt="110_70_elysion_ssr_b3_atk_ar_privaty.webp">
+    </div>
+
+    <div class="photo" data-id="111" data-number="70" data-name="tove" data-type="b1" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/111_70_missilis_ssr_b1_sp_ar_tove.webp" alt="111_70_missilis_ssr_b1_sp_ar_tove.webp">
+    </div>
+
+    <div class="photo" data-id="112" data-number="70" data-name="sin" data-type="b2" data-position="def" data-faction="missilis" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/112_70_missilis_ssr_b2_def_ar_sin.webp" alt="112_70_missilis_ssr_b2_def_ar_sin.webp">
+    </div>
+
+    <div class="photo" data-id="113" data-number="70" data-name="julia" data-type="B3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/113_70_missilis_ssr_B3_atk_ar_julia.webp" alt="113_70_missilis_ssr_B3_atk_ar_julia.webp">
+    </div>
+
+    <div class="photo" data-id="114" data-number="70" data-name="Rupee" data-type="b1" data-position="def" data-faction="tetra" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/114_70_tetra_ssr_b1_def_ar_Rupee_Winter_Shopper.webp" alt="114_70_tetra_ssr_b1_def_ar_Rupee_Winter_Shopper.webp">
+    </div>
+
+    <div class="photo" data-id="115" data-number="70" data-name="blanc" data-type="b2" data-position="def" data-faction="tetra" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/115_70_tetra_ssr_b2_def_ar_blanc.webp" alt="115_70_tetra_ssr_b2_def_ar_blanc.webp">
+    </div>
+
+    <div class="photo" data-id="116" data-number="70" data-name="folkwang" data-type="b2" data-position="def" data-faction="tetra" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/116_70_tetra_ssr_b2_def_ar_folkwang.webp" alt="116_70_tetra_ssr_b2_def_ar_folkwang.webp">
+    </div>
+
+    <div class="photo" data-id="117" data-number="70" data-name="Rosanna" data-type="b2" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/117_70_tetra_ssr_b2_sp_ar_Rosanna_Chic_Ocean.webp" alt="117_70_tetra_ssr_b2_sp_ar_Rosanna_Chic_Ocean.webp">
+    </div>
+
+    <div class="photo" data-id="118" data-number="70" data-name="rupee" data-type="b3" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/118_70_tetra_ssr_b3_atk_ar_rupee.webp" alt="118_70_tetra_ssr_b3_atk_ar_rupee.webp">
+    </div>
+
+    <div class="photo" data-id="119" data-number="72" data-name="modernia" data-type="B3" data-position="atk" data-faction="pilgrim" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/119_72_pilgrim_ssr_B3_atk_mg_modernia.webp" alt="119_72_pilgrim_ssr_B3_atk_mg_modernia.webp">
+    </div>
+
+    <div class="photo" data-id="11" data-number="120" data-name="marciana" data-type="b2" data-position="sp" data-faction="elysion" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/11_120_elysion_ssr_b2_sp_sg_marciana.webp" alt="11_120_elysion_ssr_b2_sp_sg_marciana.webp">
+    </div>
+
+    <div class="photo" data-id="120" data-number="76" data-name="rapunzel" data-type="B1" data-position="snr" data-faction="pilgrim" data-rarity="ssr" data-weapon="sp">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/120_76_pilgrim_ssr_B1_snr_sp_rapunzel_pure_grace.webp" alt="120_76_pilgrim_ssr_B1_snr_sp_rapunzel_pure_grace.webp">
+    </div>
+
+    <div class="photo" data-id="121" data-number="79" data-name="Delta" data-type="b2" data-position="def" data-faction="elysion" data-rarity="sr" data-weapon="sr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/121_79_elysion_sr_b2_def_sr_Delta.webp" alt="121_79_elysion_sr_b2_def_sr_Delta.webp">
+    </div>
+
+    <div class="photo" data-id="122" data-number="79" data-name="Quency" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/122_79_missilis_ssr_b3_atk_smg_Quency_Escape_Queen.webp" alt="122_79_missilis_ssr_b3_atk_smg_Quency_Escape_Queen.webp">
+    </div>
+
+    <div class="photo" data-id="123" data-number="79" data-name="frima" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/123_79_tetra_ssr_b1_sp_snr_frima.webp" alt="123_79_tetra_ssr_b1_sp_snr_frima.webp">
+    </div>
+
+    <div class="photo" data-id="124" data-number="79" data-name="Mary" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/124_79_tetra_ssr_b1_sp_snr_Mary_Bay_Goddess.webp" alt="124_79_tetra_ssr_b1_sp_snr_Mary_Bay_Goddess.webp">
+    </div>
+
+    <div class="photo" data-id="125" data-number="80" data-name="Sakura" data-type="b3" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/125_80_tetra_ssr_b3_atk_ar_Sakura_Bloom_in_Summer.webp" alt="125_80_tetra_ssr_b3_atk_ar_Sakura_Bloom_in_Summer.webp">
+    </div>
+
+    <div class="photo" data-id="126" data-number="81" data-name="admi" data-type="b2" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/126_81_missilis_ssr_b2_sp_snr_admi.webp" alt="126_81_missilis_ssr_b2_sp_snr_admi.webp">
+    </div>
+
+    <div class="photo" data-id="127" data-number="81" data-name="ludmilla" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/127_81_tetra_ssr_b1_sp_smg_ludmilla.webp" alt="127_81_tetra_ssr_b1_sp_smg_ludmilla.webp">
+    </div>
+
+    <div class="photo" data-id="128" data-number="81" data-name="sakura" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/128_81_tetra_ssr_b1_sp_snr_sakura.webp" alt="128_81_tetra_ssr_b1_sp_snr_sakura.webp">
+    </div>
+
+    <div class="photo" data-id="129" data-number="82" data-name="yulha" data-type="b3" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/129_82_tetra_ssr_b3_atk_snr_yulha.webp" alt="129_82_tetra_ssr_b3_atk_snr_yulha.webp">
+    </div>
+
+    <div class="photo" data-id="12" data-number="120" data-name="ether" data-type="b1" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/12_120_missilis_ssr_b1_sp_sg_ether.webp" alt="12_120_missilis_ssr_b1_sp_sg_ether.webp">
+    </div>
+
+    <div class="photo" data-id="130" data-number="84" data-name="ram" data-type="b1" data-position="sp" data-faction="abnormal" data-rarity="sr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/130_84_abnormal_sr_b1_sp_snr_ram.webp" alt="130_84_abnormal_sr_b1_sp_snr_ram.webp">
+    </div>
+
+    <div class="photo" data-id="131" data-number="84" data-name="Mari" data-type="b2" data-position="sp" data-faction="abnormal" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/131_84_abnormal_ssr_b2_sp_snr_Mari_Makinami_Illustrious.webp" alt="131_84_abnormal_ssr_b2_sp_snr_Mari_Makinami_Illustrious.webp">
+    </div>
+
+    <div class="photo" data-id="132" data-number="84" data-name="D" data-type="b1" data-position="sp" data-faction="elysion" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/132_84_elysion_ssr_b1_sp_snr_D_Killer_Wife.webp" alt="132_84_elysion_ssr_b1_sp_snr_D_Killer_Wife.webp">
+    </div>
+
+    <div class="photo" data-id="133" data-number="84" data-name="helm" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/133_84_elysion_ssr_b3_atk_snr_helm.webp" alt="133_84_elysion_ssr_b3_atk_snr_helm.webp">
+    </div>
+
+    <div class="photo" data-id="134" data-number="84" data-name="product08" data-type="b1" data-position="sp" data-faction="missilis" data-rarity="r" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/134_84_missilis_r_b1_sp_snr_product08.webp" alt="134_84_missilis_r_b1_sp_snr_product08.webp">
+    </div>
+
+    <div class="photo" data-id="135" data-number="84" data-name="maxwell" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/135_84_missilis_ssr_b3_atk_snr_maxwell.webp" alt="135_84_missilis_ssr_b3_atk_snr_maxwell.webp">
+    </div>
+
+    <div class="photo" data-id="136" data-number="84" data-name="trony" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/136_84_missilis_ssr_b3_atk_snr_trony.webp" alt="136_84_missilis_ssr_b3_atk_snr_trony.webp">
+    </div>
+
+    <div class="photo" data-id="137" data-number="84" data-name="redhood" data-type="a" data-position="atk" data-faction="pilgrim" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/137_84_pilgrim_ssr_a_atk_snr_redhood.webp" alt="137_84_pilgrim_ssr_a_atk_snr_redhood.webp">
+    </div>
+
+    <div class="photo" data-id="138" data-number="84" data-name="dorothy" data-type="b1" data-position="sp" data-faction="pilgrim" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/138_84_pilgrim_ssr_b1_sp_ar_dorothy.webp" alt="138_84_pilgrim_ssr_b1_sp_ar_dorothy.webp">
+    </div>
+
+    <div class="photo" data-id="139" data-number="84" data-name="milk" data-type="b1" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/139_84_tetra_ssr_b1_atk_snr_milk.webp" alt="139_84_tetra_ssr_b1_atk_snr_milk.webp">
+    </div>
+
+    <div class="photo" data-id="13" data-number="120" data-name="guilty" data-type="b2" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/13_120_missilis_ssr_b2_atk_sg_guilty.webp" alt="13_120_missilis_ssr_b2_atk_sg_guilty.webp">
+    </div>
+
+    <div class="photo" data-id="140" data-number="84" data-name="cocoa" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/140_84_tetra_ssr_b1_sp_snr_cocoa.webp" alt="140_84_tetra_ssr_b1_sp_snr_cocoa.webp">
+    </div>
+
+    <div class="photo" data-id="141" data-number="84" data-name="exia" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/141_84_tetra_ssr_b1_sp_snr_exia.webp" alt="141_84_tetra_ssr_b1_sp_snr_exia.webp">
+    </div>
+
+    <div class="photo" data-id="142" data-number="84" data-name="rouge" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/142_84_tetra_ssr_b1_sp_snr_rouge.webp" alt="142_84_tetra_ssr_b1_sp_snr_rouge.webp">
+    </div>
+
+    <div class="photo" data-id="143" data-number="84" data-name="dolla" data-type="b2" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/143_84_tetra_ssr_b2_sp_snr_dolla.webp" alt="143_84_tetra_ssr_b2_sp_snr_dolla.webp">
+    </div>
+
+    <div class="photo" data-id="144" data-number="87" data-name="himeno" data-type="b2" data-position="sp" data-faction="abnormal" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/144_87_abnormal_ssr_b2_sp_snr_himeno.webp" alt="144_87_abnormal_ssr_b2_sp_snr_himeno.webp">
+    </div>
+
+    <div class="photo" data-id="145" data-number="87" data-name="eunhwa" data-type="b2" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/145_87_elysion_ssr_b2_atk_snr_eunhwa.webp" alt="145_87_elysion_ssr_b2_atk_snr_eunhwa.webp">
+    </div>
+
+    <div class="photo" data-id="146" data-number="87" data-name="phantom" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/146_87_elysion_ssr_b3_atk_ar_phantom.webp" alt="146_87_elysion_ssr_b3_atk_ar_phantom.webp">
+    </div>
+
+    <div class="photo" data-id="147" data-number="87" data-name="mihara" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="sr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/147_87_missilis_sr_b3_atk_ar_mihara.webp" alt="147_87_missilis_sr_b3_atk_ar_mihara.webp">
+    </div>
+
+    <div class="photo" data-id="148" data-number="87" data-name="snow" data-type="B3" data-position="atk" data-faction="pilgrim" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/148_87_pilgrim_ssr_B3_atk_ar_snow_white.webp" alt="148_87_pilgrim_ssr_B3_atk_ar_snow_white.webp">
+    </div>
+
+    <div class="photo" data-id="149" data-number="87" data-name="idollflower" data-type="b1" data-position="def" data-faction="tetra" data-rarity="r" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/149_87_tetra_r_b1_def_rl_idollflower.webp" alt="149_87_tetra_r_b1_def_rl_idollflower.webp">
+    </div>
+
+    <div class="photo" data-id="14" data-number="120" data-name="naga" data-type="b2" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/14_120_missilis_ssr_b2_sp_sg_naga.webp" alt="14_120_missilis_ssr_b2_sp_sg_naga.webp">
+    </div>
+
+    <div class="photo" data-id="150" data-number="87" data-name="idollsun" data-type="b3" data-position="sp" data-faction="tetra" data-rarity="r" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/150_87_tetra_r_b3_sp_ar_idollsun.webp" alt="150_87_tetra_r_b3_sp_ar_idollsun.webp">
+    </div>
+
+    <div class="photo" data-id="151" data-number="87" data-name="moran" data-type="B1" data-position="def" data-faction="tetra" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/151_87_tetra_ssr_B1_def_ar_moran.webp" alt="151_87_tetra_ssr_B1_def_ar_moran.webp">
+    </div>
+
+    <div class="photo" data-id="152" data-number="87" data-name="ade" data-type="b2" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/152_87_tetra_ssr_b2_sp_ar_ade.webp" alt="152_87_tetra_ssr_b2_sp_ar_ade.webp">
+    </div>
+
+    <div class="photo" data-id="153" data-number="90" data-name="rei" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/153_90_abnormal_ssr_b3_atk_ar_rei_ayanami_tentative_name.webp" alt="153_90_abnormal_ssr_b3_atk_ar_rei_ayanami_tentative_name.webp">
+    </div>
+
+    <div class="photo" data-id="154" data-number="84" data-name="bready" data-type="b3" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="sr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/154_84_tetra_ssr_b3_atk_sr_bready.webp" alt="154_84_tetra_ssr_b3_atk_sr_bready.webp">
+    </div>
+
+    <div class="photo" data-id="155" data-number="168" data-name="crush" data-type="b2" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/155_168_tetra_ssr_b2_sp_rl_crush.webp" alt="155_168_tetra_ssr_b2_sp_rl_crush.webp">
+    </div>
+
+    <div class="photo" data-id="156" data-number="59" data-name="siren" data-type="b1" data-position="sp" data-faction="pilgrim" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/156_59_pilgrim_ssr_b1_sp_smg_siren.webp" alt="156_59_pilgrim_ssr_b1_sp_smg_siren.webp">
+    </div>
+
+    <div class="photo" data-id="157" data-number="36" data-name="mihara" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="sr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/157_36_missilis_sr_b3_atk_mg_mihara_bonding_chain.webp" alt="157_36_missilis_sr_b3_atk_mg_mihara_bonding_chain.webp">
+    </div>
+
+    <div class="photo" data-id="15" data-number="120" data-name="isabel" data-type="B3" data-position="sg" data-faction="pilgrim" data-rarity="ssr" data-weapon="atk">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/15_120_pilgrim_ssr_B3_sg_atk_isabel.webp" alt="15_120_pilgrim_ssr_B3_sg_atk_isabel.webp">
+    </div>
+
+    <div class="photo" data-id="16" data-number="120" data-name="mary" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/16_120_tetra_ssr_b1_sp_sg_mary.webp" alt="16_120_tetra_ssr_b1_sp_sg_mary.webp">
+    </div>
+
+    <div class="photo" data-id="17" data-number="120" data-name="leona" data-type="b2" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/17_120_tetra_ssr_b2_sp_sg_leona.webp" alt="17_120_tetra_ssr_b2_sp_sg_leona.webp">
+    </div>
+
+    <div class="photo" data-id="18" data-number="120" data-name="neve" data-type="b3" data-position="sg" data-faction="tetra" data-rarity="ssr" data-weapon="atk">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/18_120_tetra_ssr_b3_sg_atk_neve.webp" alt="18_120_tetra_ssr_b3_sg_atk_neve.webp">
+    </div>
+
+    <div class="photo" data-id="19" data-number="126" data-name="grave" data-type="b2" data-position="sp" data-faction="pilgrim" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/19_126_pilgrim_ssr_b2_sp_ar_grave.webp" alt="19_126_pilgrim_ssr_b2_sp_ar_grave.webp">
+    </div>
+
+    <div class="photo" data-id="1" data-number="108" data-name="soline" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/1_108_elysion_ssr_b3_atk_smg_soline.webp" alt="1_108_elysion_ssr_b3_atk_smg_soline.webp">
+    </div>
+
+    <div class="photo" data-id="20" data-number="128" data-name="Privaty" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/20_128_elysion_ssr_b3_atk_sg_Privaty_Unkind_Maid.webp" alt="20_128_elysion_ssr_b3_atk_sg_Privaty_Unkind_Maid.webp">
+    </div>
+
+    <div class="photo" data-id="21" data-number="130" data-name="anis" data-type="b3" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/21_130_tetra_ssr_b3_sp_sg_anis_sparkling_summer.webp" alt="21_130_tetra_ssr_b3_sp_sg_anis_sparkling_summer.webp">
+    </div>
+
+    <div class="photo" data-id="22" data-number="132" data-name="mana" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/22_132_missilis_ssr_b3_atk_ar_mana.webp" alt="22_132_missilis_ssr_b3_atk_ar_mana.webp">
+    </div>
+
+    <div class="photo" data-id="23" data-number="137" data-name="scarletblackshadow" data-type="b3" data-position="atk" data-faction="pilgrim" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/23_137_pilgrim_ssr_b3_atk_rl_scarletblackshadow.webp" alt="23_137_pilgrim_ssr_b3_atk_rl_scarletblackshadow.webp">
+    </div>
+
+    <div class="photo" data-id="24" data-number="145" data-name="harran" data-type="b3" data-position="snr" data-faction="pilgrim" data-rarity="ssr" data-weapon="atk">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/24_145_pilgrim_ssr_b3_snr_atk_harran.webp" alt="24_145_pilgrim_ssr_b3_snr_atk_harran.webp">
+    </div>
+
+    <div class="photo" data-id="25" data-number="149" data-name="mana" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/25_149_missilis_ssr_b3_atk_ar_mana.webp" alt="25_149_missilis_ssr_b3_atk_ar_mana.webp">
+    </div>
+
+    <div class="photo" data-id="26" data-number="157" data-name="scarlet" data-type="b3" data-position="atk" data-faction="pilgrim" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/26_157_pilgrim_ssr_b3_atk_ar_scarlet.webp" alt="26_157_pilgrim_ssr_b3_atk_ar_scarlet.webp">
+    </div>
+
+    <div class="photo" data-id="27" data-number="168" data-name="power" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/27_168_abnormal_ssr_b3_atk_rl_power.webp" alt="27_168_abnormal_ssr_b3_atk_rl_power.webp">
+    </div>
+
+    <div class="photo" data-id="28" data-number="168" data-name="anchor" data-type="b1" data-position="def" data-faction="elysion" data-rarity="sr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/28_168_elysion_sr_b1_def_rl_anchor.webp" alt="28_168_elysion_sr_b1_def_rl_anchor.webp">
+    </div>
+
+    <div class="photo" data-id="29" data-number="168" data-name="Anchor" data-type="b2" data-position="sp" data-faction="elysion" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/29_168_elysion_ssr_b2_sp_rl_Anchor_Innocent_Maid.webp" alt="29_168_elysion_ssr_b2_sp_rl_Anchor_Innocent_Maid.webp">
+    </div>
+
+    <div class="photo" data-id="2" data-number="108" data-name="crow" data-type="b1" data-position="def" data-faction="missilis" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/2_108_missilis_ssr_b1_def_smg_crow.webp" alt="2_108_missilis_ssr_b1_def_smg_crow.webp">
+    </div>
+
+    <div class="photo" data-id="30" data-number="168" data-name="vesti" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/30_168_elysion_ssr_b3_atk_rl_vesti.webp" alt="30_168_elysion_ssr_b3_atk_rl_vesti.webp">
+    </div>
+
+    <div class="photo" data-id="31" data-number="168" data-name="quiry" data-type="b3" data-position="sp" data-faction="elysion" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/31_168_elysion_ssr_b3_sp_rl_quiry.webp" alt="31_168_elysion_ssr_b3_sp_rl_quiry.webp">
+    </div>
+
+    <div class="photo" data-id="32" data-number="168" data-name="tia" data-type="b1" data-position="def" data-faction="missilis" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/32_168_missilis_ssr_b1_def_rl_tia.webp" alt="32_168_missilis_ssr_b1_def_rl_tia.webp">
+    </div>
+
+    <div class="photo" data-id="33" data-number="168" data-name="Anne" data-type="b2" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/33_168_missilis_ssr_b2_sp_rl_Anne_Miracle_Fairy.webp" alt="33_168_missilis_ssr_b2_sp_rl_Anne_Miracle_Fairy.webp">
+    </div>
+
+    <div class="photo" data-id="34" data-number="168" data-name="mica" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="sr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/34_168_tetra_sr_b1_sp_rl_mica.webp" alt="34_168_tetra_sr_b1_sp_rl_mica.webp">
+    </div>
+
+    <div class="photo" data-id="35" data-number="168" data-name="noise" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/35_168_tetra_ssr_b1_sp_rl_noise.webp" alt="35_168_tetra_ssr_b1_sp_rl_noise.webp">
+    </div>
+
+    <div class="photo" data-id="36" data-number="168" data-name="micax" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/36_168_tetra_ssr_b1_sp_smg_micax.webp" alt="36_168_tetra_ssr_b1_sp_smg_micax.webp">
+    </div>
+
+    <div class="photo" data-id="37" data-number="168" data-name="bay" data-type="b2" data-position="def" data-faction="tetra" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/37_168_tetra_ssr_b2_def_rl_bay.webp" alt="37_168_tetra_ssr_b2_def_rl_bay.webp">
+    </div>
+
+    <div class="photo" data-id="38" data-number="168" data-name="biscuit" data-type="b2" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/38_168_tetra_ssr_b2_sp_rl_biscuit.webp" alt="38_168_tetra_ssr_b2_sp_rl_biscuit.webp">
+    </div>
+
+    <div class="photo" data-id="39" data-number="174" data-name="rapunzel" data-type="b1" data-position="sp" data-faction="pilgrim" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/39_174_pilgrim_ssr_b1_sp_rl_rapunzel.webp" alt="39_174_pilgrim_ssr_b1_sp_rl_rapunzel.webp">
+    </div>
+
+    <div class="photo" data-id="3" data-number="108" data-name="quency" data-type="b2" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/3_108_missilis_ssr_b2_sp_smg_quency.webp" alt="3_108_missilis_ssr_b2_sp_smg_quency.webp">
+    </div>
+
+    <div class="photo" data-id="40" data-number="18" data-name="Snow" data-type="b3" data-position="atk" data-faction="pilgrim" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/40_18_pilgrim_ssr_b3_atk_ar_Snow_White_Innocent_Day.webp" alt="40_18_pilgrim_ssr_b3_atk_ar_Snow_White_Innocent_Day.webp">
+    </div>
+
+    <div class="photo" data-id="41" data-number="210" data-name="zwei" data-type="b1" data-position="sp" data-faction="elysion" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/41_210_elysion_ssr_b1_sp_sg_zwei.webp" alt="41_210_elysion_ssr_b1_sp_sg_zwei.webp">
+    </div>
+
+    <div class="photo" data-id="42" data-number="216" data-name="micax2" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/42_216_tetra_ssr_b1_sp_smg_micax2.webp" alt="42_216_tetra_ssr_b1_sp_smg_micax2.webp">
+    </div>
+
+    <div class="photo" data-id="43" data-number="230" data-name="pascal" data-type="b1" data-position="sp" data-faction="abnormal" data-rarity="sr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/43_230_abnormal_sr_b1_sp_snr_pascal.webp" alt="43_230_abnormal_sr_b1_sp_snr_pascal.webp">
+    </div>
+
+    <div class="photo" data-id="44" data-number="234" data-name="a2" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/44_234_abnormal_ssr_b3_atk_rl_a2.webp" alt="44_234_abnormal_ssr_b3_atk_rl_a2.webp">
+    </div>
+
+    <div class="photo" data-id="45" data-number="252" data-name="nihilister" data-type="b2" data-position="snr" data-faction="pilgrim" data-rarity="ssr" data-weapon="atk">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/45_252_pilgrim_ssr_b2_snr_atk_nihilister.webp" alt="45_252_pilgrim_ssr_b2_snr_atk_nihilister.webp">
+    </div>
+
+    <div class="photo" data-id="46" data-number="261" data-name="laplace" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/46_261_missilis_ssr_b3_atk_rl_laplace.webp" alt="46_261_missilis_ssr_b3_atk_rl_laplace.webp">
+    </div>
+
+    <div class="photo" data-id="47" data-number="270" data-name="neon" data-type="b1" data-position="sp" data-faction="elysion" data-rarity="sr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/47_270_elysion_sr_b1_sp_sg_neon.webp" alt="47_270_elysion_sr_b1_sp_sg_neon.webp">
+    </div>
+
+    <div class="photo" data-id="48" data-number="270" data-name="maiden" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/48_270_elysion_ssr_b3_atk_sg_maiden.webp" alt="48_270_elysion_ssr_b3_atk_sg_maiden.webp">
+    </div>
+
+    <div class="photo" data-id="49" data-number="270" data-name="product23" data-type="b2" data-position="sp" data-faction="missilis" data-rarity="r" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/49_270_missilis_r_b2_sp_sg_product23.webp" alt="49_270_missilis_r_b2_sp_sg_product23.webp">
+    </div>
+
+    <div class="photo" data-id="4" data-number="112" data-name="n102" data-type="b1" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/4_112_missilis_ssr_b1_sp_rl_n102.webp" alt="4_112_missilis_ssr_b1_sp_rl_n102.webp">
+    </div>
+
+    <div class="photo" data-id="50" data-number="270" data-name="pepper" data-type="b1" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/50_270_missilis_ssr_b1_sp_sg_pepper.webp" alt="50_270_missilis_ssr_b1_sp_sg_pepper.webp">
+    </div>
+
+    <div class="photo" data-id="51" data-number="270" data-name="drake" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/51_270_missilis_ssr_b3_atk_sg_drake.webp" alt="51_270_missilis_ssr_b3_atk_sg_drake.webp">
+    </div>
+
+    <div class="photo" data-id="52" data-number="270" data-name="viper" data-type="b2" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/52_270_tetra_ssr_b2_atk_sg_viper.webp" alt="52_270_tetra_ssr_b2_atk_sg_viper.webp">
+    </div>
+
+    <div class="photo" data-id="53" data-number="270" data-name="noir" data-type="b3" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/53_270_tetra_ssr_b3_atk_sg_noir.webp" alt="53_270_tetra_ssr_b3_atk_sg_noir.webp">
+    </div>
+
+    <div class="photo" data-id="54" data-number="270" data-name="Soda" data-type="b3" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/54_270_tetra_ssr_b3_atk_sg_Soda_Twinkling_Bunny.webp" alt="54_270_tetra_ssr_b3_atk_sg_Soda_Twinkling_Bunny.webp">
+    </div>
+
+    <div class="photo" data-id="55" data-number="270" data-name="sugar" data-type="b3" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/55_270_tetra_ssr_b3_atk_sg_sugar.webp" alt="55_270_tetra_ssr_b3_atk_sg_sugar.webp">
+    </div>
+
+    <div class="photo" data-id="56" data-number="273" data-name="maiden" data-type="b3" data-position="def" data-faction="elysion" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/56_273_elysion_ssr_b3_def_rl_maiden_ice_rose.webp" alt="56_273_elysion_ssr_b3_def_rl_maiden_ice_rose.webp">
+    </div>
+
+    <div class="photo" data-id="57" data-number="360" data-name="noah" data-type="b2" data-position="def" data-faction="pilgrim" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/57_360_pilgrim_ssr_b2_def_rl_noah.webp" alt="57_360_pilgrim_ssr_b2_def_rl_noah.webp">
+    </div>
+
+    <div class="photo" data-id="58" data-number="36" data-name="rem" data-type="b2" data-position="sp" data-faction="abnormal" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/58_36_abnormal_ssr_b2_sp_mg_rem.webp" alt="58_36_abnormal_ssr_b2_sp_mg_rem.webp">
+    </div>
+
+    <div class="photo" data-id="59" data-number="36" data-name="asuka" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="ar">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/59_36_abnormal_ssr_b3_atk_ar_asuka_wille.webp" alt="59_36_abnormal_ssr_b3_atk_ar_asuka_wille.webp">
+    </div>
+
+    <div class="photo" data-id="5" data-number="112" data-name="yuni" data-type="b2" data-position="def" data-faction="missilis" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/5_112_missilis_ssr_b2_def_rl_yuni.webp" alt="5_112_missilis_ssr_b2_def_rl_yuni.webp">
+    </div>
+
+    <div class="photo" data-id="60" data-number="36" data-name="rei" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/60_36_abnormal_ssr_b3_atk_mg_rei_ayanami.webp" alt="60_36_abnormal_ssr_b3_atk_mg_rei_ayanami.webp">
+    </div>
+
+    <div class="photo" data-id="61" data-number="36" data-name="emma" data-type="b1" data-position="sp" data-faction="elysion" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/61_36_elysion_ssr_b1_sp_mg_emma.webp" alt="61_36_elysion_ssr_b1_sp_mg_emma.webp">
+    </div>
+
+    <div class="photo" data-id="62" data-number="36" data-name="diesel" data-type="b2" data-position="def" data-faction="elysion" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/62_36_elysion_ssr_b2_def_mg_diesel.webp" alt="62_36_elysion_ssr_b2_def_mg_diesel.webp">
+    </div>
+
+    <div class="photo" data-id="63" data-number="36" data-name="Mast" data-type="b2" data-position="sp" data-faction="elysion" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/63_36_elysion_ssr_b2_sp_mg_Mast_Romantic_Maid.webp" alt="63_36_elysion_ssr_b2_sp_mg_Mast_Romantic_Maid.webp">
+    </div>
+
+    <div class="photo" data-id="64" data-number="36" data-name="guillotine" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/64_36_elysion_ssr_b3_atk_mg_guillotine.webp" alt="64_36_elysion_ssr_b3_atk_mg_guillotine.webp">
+    </div>
+
+    <div class="photo" data-id="65" data-number="36" data-name="Neon" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/65_36_elysion_ssr_b3_atk_mg_Neon_Blue_Ocean.webp" alt="65_36_elysion_ssr_b3_atk_mg_Neon_Blue_Ocean.webp">
+    </div>
+
+    <div class="photo" data-id="66" data-number="36" data-name="red" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/66_36_elysion_ssr_b3_atk_mg_red_rapi_rrh.webp" alt="66_36_elysion_ssr_b3_atk_mg_red_rapi_rrh.webp">
+    </div>
+
+    <div class="photo" data-id="67" data-number="36" data-name="product" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="r" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/67_36_missilis_r_b3_atk_mg_product_12.webp" alt="67_36_missilis_r_b3_atk_mg_product_12.webp">
+    </div>
+
+    <div class="photo" data-id="68" data-number="36" data-name="eleg" data-type="b2" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/68_36_missilis_ssr_b2_sp_mg_eleg.webp" alt="68_36_missilis_ssr_b2_sp_mg_eleg.webp">
+    </div>
+
+    <div class="photo" data-id="69" data-number="36" data-name="kilo" data-type="b3" data-position="def" data-faction="missilis" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/69_36_missilis_ssr_b3_def_mg_kilo.webp" alt="69_36_missilis_ssr_b3_def_mg_kilo.webp">
+    </div>
+
+    <div class="photo" data-id="6" data-number="112" data-name="ein" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/6_112_missilis_ssr_b3_atk_snr_ein.webp" alt="6_112_missilis_ssr_b3_atk_snr_ein.webp">
+    </div>
+
+    <div class="photo" data-id="70" data-number="36" data-name="crown" data-type="b2" data-position="def" data-faction="pilgrim" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/70_36_pilgrim_ssr_b2_def_mg_crown.webp" alt="70_36_pilgrim_ssr_b2_def_mg_crown.webp">
+    </div>
+
+    <div class="photo" data-id="71" data-number="36" data-name="cinderella" data-type="B3" data-position="def" data-faction="pilgrim" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/71_36_pilgrim_ssr_B3_def_rl_cinderella.webp" alt="71_36_pilgrim_ssr_B3_def_rl_cinderella.webp">
+    </div>
+
+    <div class="photo" data-id="72" data-number="36" data-name="rosanna" data-type="b1" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/72_36_tetra_ssr_b1_atk_mg_rosanna.webp" alt="72_36_tetra_ssr_b1_atk_mg_rosanna.webp">
+    </div>
+
+    <div class="photo" data-id="73" data-number="36" data-name="soda" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/73_36_tetra_ssr_b1_sp_mg_soda.webp" alt="73_36_tetra_ssr_b1_sp_mg_soda.webp">
+    </div>
+
+    <div class="photo" data-id="74" data-number="36" data-name="aria" data-type="b2" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/74_36_tetra_ssr_b2_atk_mg_aria.webp" alt="74_36_tetra_ssr_b2_atk_mg_aria.webp">
+    </div>
+
+    <div class="photo" data-id="75" data-number="36" data-name="Ludmilla" data-type="b3" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="mg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/75_36_tetra_ssr_b3_atk_mg_Ludmilla_Winter_Owner.webp" alt="75_36_tetra_ssr_b3_atk_mg_Ludmilla_Winter_Owner.webp">
+    </div>
+
+    <div class="photo" data-id="76" data-number="378" data-name="emilia" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/76_378_abnormal_ssr_b3_atk_rl_emilia.webp" alt="76_378_abnormal_ssr_b3_atk_rl_emilia.webp">
+    </div>
+
+    <div class="photo" data-id="77" data-number="390" data-name="rumani" data-type="b1" data-position="def" data-faction="tetra" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/77_390_tetra_ssr_b1_def_rl_rumani.webp" alt="77_390_tetra_ssr_b1_def_rl_rumani.webp">
+    </div>
+
+    <div class="photo" data-id="78" data-number="396" data-name="helm" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="snr">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/78_396_elysion_ssr_b3_atk_snr_helm.webp" alt="78_396_elysion_ssr_b3_atk_snr_helm.webp">
+    </div>
+
+    <div class="photo" data-id="79" data-number="414" data-name="centi" data-type="b2" data-position="def" data-faction="missilis" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/79_414_missilis_ssr_b2_def_rl_centi.webp" alt="79_414_missilis_ssr_b2_def_rl_centi.webp">
+    </div>
+
+    <div class="photo" data-id="7" data-number="112" data-name="belorta" data-type="b2" data-position="atk" data-faction="tetra" data-rarity="sr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/7_112_tetra_sr_b2_atk_rl_belorta.webp" alt="7_112_tetra_sr_b2_atk_rl_belorta.webp">
+    </div>
+
+    <div class="photo" data-id="80" data-number="426" data-name="jackal" data-type="b1" data-position="def" data-faction="missilis" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/80_426_missilis_ssr_b1_def_rl_jackal.webp" alt="80_426_missilis_ssr_b1_def_rl_jackal.webp">
+    </div>
+
+    <div class="photo" data-id="81" data-number="426" data-name="anis" data-type="b2" data-position="def" data-faction="tetra" data-rarity="sr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/81_426_tetra_sr_b2_def_rl_anis.webp" alt="81_426_tetra_sr_b2_def_rl_anis.webp">
+    </div>
+
+    <div class="photo" data-id="82" data-number="432" data-name="trina" data-type="b2" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/82_432_missilis_ssr_b2_sp_rl_trina.webp" alt="82_432_missilis_ssr_b2_sp_rl_trina.webp">
+    </div>
+
+    <div class="photo" data-id="83" data-number="504" data-name="emilia" data-type="b3" data-position="atk" data-faction="abnormal" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/83_504_abnormal_ssr_b3_atk_rl_emilia.webp" alt="83_504_abnormal_ssr_b3_atk_rl_emilia.webp">
+    </div>
+
+    <div class="photo" data-id="84" data-number="54" data-name="Misato" data-type="b1" data-position="sp" data-faction="abnormal" data-rarity="sr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/84_54_abnormal_sr_b1_sp_smg_Misato_Katsuragi.webp" alt="84_54_abnormal_sr_b1_sp_smg_Misato_Katsuragi.webp">
+    </div>
+
+    <div class="photo" data-id="85" data-number="54" data-name="makima" data-type="b2" data-position="def" data-faction="abnormal" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/85_54_abnormal_ssr_b2_def_smg_makima.webp" alt="85_54_abnormal_ssr_b2_def_smg_makima.webp">
+    </div>
+
+    <div class="photo" data-id="86" data-number="54" data-name="soldier" data-type="b1" data-position="sp" data-faction="elysion" data-rarity="r" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/86_54_elysion_r_b1_sp_smg_soldier_ow.webp" alt="86_54_elysion_r_b1_sp_smg_soldier_ow.webp">
+    </div>
+
+    <div class="photo" data-id="87" data-number="54" data-name="miranda" data-type="b1" data-position="sp" data-faction="elysion" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/87_54_elysion_ssr_b1_sp_smg_miranda.webp" alt="87_54_elysion_ssr_b1_sp_smg_miranda.webp">
+    </div>
+
+    <div class="photo" data-id="88" data-number="54" data-name="signal" data-type="b2" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/88_54_elysion_ssr_b2_atk_smg_signal.webp" alt="88_54_elysion_ssr_b2_atk_smg_signal.webp">
+    </div>
+
+    <div class="photo" data-id="89" data-number="54" data-name="mast" data-type="b2" data-position="sp" data-faction="elysion" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/89_54_elysion_ssr_b2_sp_smg_mast.webp" alt="89_54_elysion_ssr_b2_sp_smg_mast.webp">
+    </div>
+
+    <div class="photo" data-id="8" data-number="116" data-name="laplace" data-type="b3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="rl">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/8_116_missilis_ssr_b3_atk_rl_laplace.webp" alt="8_116_missilis_ssr_b3_atk_rl_laplace.webp">
+    </div>
+
+    <div class="photo" data-id="90" data-number="54" data-name="d" data-type="b3" data-position="atk" data-faction="elysion" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/90_54_elysion_ssr_b3_atk_smg_d.webp" alt="90_54_elysion_ssr_b3_atk_smg_d.webp">
+    </div>
+
+    <div class="photo" data-id="91" data-number="54" data-name="liter" data-type="b1" data-position="sp" data-faction="missilis" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/91_54_missilis_ssr_b1_sp_smg_liter.webp" alt="91_54_missilis_ssr_b1_sp_smg_liter.webp">
+    </div>
+
+    <div class="photo" data-id="92" data-number="54" data-name="epinel" data-type="B3" data-position="atk" data-faction="missilis" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/92_54_missilis_ssr_B3_atk_smg_epinel.webp" alt="92_54_missilis_ssr_B3_atk_smg_epinel.webp">
+    </div>
+
+    <div class="photo" data-id="93" data-number="54" data-name="idollocean" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="r" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/93_54_tetra_r_b1_sp_smg_idollocean.webp" alt="93_54_tetra_r_b1_sp_smg_idollocean.webp">
+    </div>
+
+    <div class="photo" data-id="94" data-number="54" data-name="volume" data-type="b1" data-position="atk" data-faction="tetra" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/94_54_tetra_ssr_b1_atk_smg_volume.webp" alt="94_54_tetra_ssr_b1_atk_smg_volume.webp">
+    </div>
+
+    <div class="photo" data-id="95" data-number="54" data-name="rei" data-type="b1" data-position="def" data-faction="tetra" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/95_54_tetra_ssr_b1_def_smg_rei.webp" alt="95_54_tetra_ssr_b1_def_smg_rei.webp">
+    </div>
+
+    <div class="photo" data-id="96" data-number="54" data-name="Alice" data-type="b1" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/96_54_tetra_ssr_b1_sp_smg_Alice_Wonderland_Bunny.webp" alt="96_54_tetra_ssr_b1_sp_smg_Alice_Wonderland_Bunny.webp">
+    </div>
+
+    <div class="photo" data-id="97" data-number="54" data-name="nero" data-type="b2" data-position="def" data-faction="tetra" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/97_54_tetra_ssr_b2_def_smg_nero.webp" alt="97_54_tetra_ssr_b2_def_smg_nero.webp">
+    </div>
+
+    <div class="photo" data-id="98" data-number="54" data-name="clay" data-type="b2" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/98_54_tetra_ssr_b2_sp_smg_clay.webp" alt="98_54_tetra_ssr_b2_sp_smg_clay.webp">
+    </div>
+
+    <div class="photo" data-id="99" data-number="54" data-name="novel" data-type="b2" data-position="sp" data-faction="tetra" data-rarity="ssr" data-weapon="smg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/99_54_tetra_ssr_b2_sp_smg_novel.webp" alt="99_54_tetra_ssr_b2_sp_smg_novel.webp">
+    </div>
+
+    <div class="photo" data-id="9" data-number="120" data-name="soldier" data-type="b2" data-position="def" data-faction="elysion" data-rarity="r" data-weapon="sg">
+        <img crossorigin="anonymous" src="https://raw.githubusercontent.com/sirentide/public-host/refs/heads/master/image-id/9_120_elysion_r_b2_def_sg_soldier_fa.webp" alt="9_120_elysion_r_b2_def_sg_soldier_fa.webp">
+    </div>
+
